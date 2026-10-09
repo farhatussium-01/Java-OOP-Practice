@@ -1,9 +1,6 @@
 package Class19;
-
-import java.util.Scanner;   
-
+import java.util.Scanner;
 public class Main {
-    public class Main {
    static int add(int x, int y) {
         int result = x + y;
         return result;
@@ -49,7 +46,5 @@ public class Main {
             System.out.println("Cannot divide by zero.");
         }
     }
-    
-  }
-
+ 
 }
